@@ -1,8 +1,5 @@
-Image Steganography
+Steganography
 ===================
-
-A command-line interface based program for Image Steganography.<br>
-It uses Least Significant Bit(LSB) algorithm for Image Steganography.
 
 ### Installation
 
@@ -36,6 +33,3 @@ Refer <a href="https://github.com/jayrambhia/Install-OpenCV">this</a> repository
   $ ./decode Images/output_image.png
   ```
   The hidden message will be displayed on your console.
-
-### See in Action
-<a href="https://youtu.be/pLOUYwLjG5E"><img src="https://github.com/hitanshu-dhawan/ImageSteganography/blob/master/youtube_icon.png" alt="YouTube Video"  width="80px" /></a>
