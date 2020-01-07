@@ -23,13 +23,13 @@ Refer <a href="https://github.com/jayrambhia/Install-OpenCV">this</a> repository
 3. How to Encode the message
 
   ```
-  $ ./encode Images/input_image.png TextFiles/text_file.txt Images/output_image.png
+  $ ./encode 'Where_Folder_image'/input_image.png 'Where_Folder_Text'/text_file.txt Images/output_image.png
   ```
   A new image will be created in your Images directory with the secret message hidden in it.
 
 4. How to Decode the message
 
   ```
-  $ ./decode Images/output_image.png
+  $ ./decode 'Where_Folder_image'/output_image.png
   ```
   The hidden message will be displayed on your console.
